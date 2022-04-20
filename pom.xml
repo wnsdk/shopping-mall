@@ -57,12 +57,16 @@
 			<version>${querydsl.version}</version>
 			<scope>provided</scope>
 		</dependency>
-
 		<!-- QueryDSL JPA Config -->
 		<dependency>
 			<groupId>com.querydsl</groupId>
 			<artifactId>querydsl-jpa</artifactId>
 			<version>${querydsl.version}</version>
+		</dependency>
+		<!-- Spring Boot Devtools -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
 		</dependency>
 	</dependencies>
 
