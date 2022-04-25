@@ -1,6 +1,5 @@
 package com.shop.entity;
 
-import com.shop.config.BaseTimeEntity;
 import lombok.Getter;
 import org.springframework.data.annotation.CreatedBy;
 import org.springframework.data.annotation.LastModifiedBy;

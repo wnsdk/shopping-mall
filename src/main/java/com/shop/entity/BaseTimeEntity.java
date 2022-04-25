@@ -1,4 +1,4 @@
-package com.shop.config;
+package com.shop.entity;
 
 import lombok.Getter;
 import lombok.Setter;
