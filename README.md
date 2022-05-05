@@ -12,5 +12,3 @@ entity
 exception
 repository
 service
-
-
